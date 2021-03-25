@@ -1,4 +1,4 @@
-# Temperature-and-Humidity-Data-Logger
+# Temperature-Data-Logger
 
 Trying to develop a device that allows temperature and humidity data logging.
 Resource available will be a laptop that can standby to record data.
