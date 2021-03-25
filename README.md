@@ -1,6 +1,6 @@
 # Temperature-Data-Logger
 
-Trying to develop a device that allows temperature and humidity data logging.
+Trying to develop a device that allows temperature data logging as simple as available.
 Resource available will be a laptop that can standby to record data.
 Other option will be to upload data to cloud.
 
