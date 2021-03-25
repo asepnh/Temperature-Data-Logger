@@ -30,7 +30,7 @@ ESP32 References:
 
 
 
-Steps to install microfs for data transfer from Microbit
+Steps to install microfs for data transfer from Microbit (but this step is not required as we can use the Mu python editor file transfer system)
 - Install python in windows (pip will automatically be installed) https://www.python.org/downloads/
 - Install microfs
   - Get the pip installation folder by opening windows command prompt and typing "py -m pip --version"
