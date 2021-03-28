@@ -26,7 +26,7 @@ Microbit references:
 
   
 - https://microbit.org/get-started/user-guide/python/
-
+- https://microbit-micropython.readthedocs.io/en/latest/index.html
 
 - https://microbit.org/projects/make-it-code-it/indoor-outdoor-thermometer/?editor=python
 - https://microbit.org/projects/make-it-code-it/pir-movement-alarm/?editor=python
@@ -58,3 +58,5 @@ Using microfs to transfer file - this is too much hassle, easier is using Mu pyt
     - Get the pip installation folder by opening windows command prompt and typing "py -m pip --version"
     - Go to the pip script installation path and type "pip install microfs"
 
+Difference between Python and MicroPython
+https://docs.micropython.org/en/latest/genrst/index.html
