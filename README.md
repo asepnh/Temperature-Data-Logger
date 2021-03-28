@@ -34,7 +34,7 @@ Microbit references:
 - https://microbit.org/projects/make-it-code-it/indoor-outdoor-thermometer/?editor=python
 - https://microbit.org/projects/make-it-code-it/pir-movement-alarm/?editor=python
 - https://microbit-micropython.readthedocs.io/en/v1.0.1/tutorials/storage.html#
-  
+- https://github.com/simonmonk/prog_mb
 - https://github.com/simonmonk/mbms
 - https://github.com/MartinCoderDojo/logging-microbit-data
 - https://docs.python.org/3.9/tutorial/index.html
