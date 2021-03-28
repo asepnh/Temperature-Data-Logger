@@ -29,6 +29,8 @@ Microbit references:
 - https://docs.microsoft.com/en-us/microsoft-365/education/data-streamer/using-microbit-and-makecode  
   This step requires the laptop to be installed with Office 365 desktop version, not all have this license
 
+- https://www.littlebird.com.au/a/how-to/80/measure-temperature-and-humidity-with-micro-bit
+
 ESP32 References:
 - https://my.cytron.io/p-esp01-humidity-and-temperature-module
 - https://www.youtube.com/watch?v=poHZTsKvZzM
