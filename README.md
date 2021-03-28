@@ -16,22 +16,25 @@ Microbit references:
 - https://microbit.org/projects/make-it-code-it/python-wireless-data-logger/
 - https://microbit.org/projects/make-it-code-it/indoor-outdoor-thermometer/?editor=python
 - https://microbit-micropython.readthedocs.io/en/v1.0.1/tutorials/storage.html#
+  
 - https://github.com/simonmonk/mbms
 - https://github.com/MartinCoderDojo/logging-microbit-data
 - https://docs.python.org/3.9/tutorial/index.html
 - http://www.microbitsandbobs.co.uk/downloads/templogger.py
-
-
+  
+- https://docs.microsoft.com/en-us/microsoft-365/education/data-streamer/using-microbit-and-makecode
+  This step requires the laptop to be installed with Office 365 desktop version, not all have this license
 
 ESP32 References:
 - https://my.cytron.io/p-esp01-humidity-and-temperature-module
 - https://www.youtube.com/watch?v=poHZTsKvZzM
 
 
+Useful Info:
+Using microfs to transfer file - this is too much hassle, easier is using Mu python editor.
+  Steps to install microfs for data transfer from Microbit (but this step is not required as we can use the Mu python editor file transfer system)
+  - Install python in windows (pip will automatically be installed) https://www.python.org/downloads/
+  - Install microfs
+    - Get the pip installation folder by opening windows command prompt and typing "py -m pip --version"
+    - Go to the pip script installation path and type "pip install microfs"
 
-
-Steps to install microfs for data transfer from Microbit (but this step is not required as we can use the Mu python editor file transfer system)
-- Install python in windows (pip will automatically be installed) https://www.python.org/downloads/
-- Install microfs
-  - Get the pip installation folder by opening windows command prompt and typing "py -m pip --version"
-  - Go to the pip script installation path and type "pip install microfs"
