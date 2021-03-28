@@ -18,6 +18,7 @@ Microbit references:
   No limit to the recording time, file is stored as csv in laptop, can use a remote microbit. But no indication on the timing. 
   4 temp sensor can go to microbit with a breakout board which will then sends signal to 1 microbit connected to a laptop.
 - https://microbit.org/projects/make-it-code-it/indoor-outdoor-thermometer/?editor=python
+- https://microbit.org/projects/make-it-code-it/pir-movement-alarm/?editor=python
 - https://microbit-micropython.readthedocs.io/en/v1.0.1/tutorials/storage.html#
   
 - https://github.com/simonmonk/mbms
