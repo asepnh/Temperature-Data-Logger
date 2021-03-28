@@ -13,7 +13,9 @@ Using Makecode Microbit is found to have a limitation of 20s. Another means to c
 
 Microbit references:
 - https://makecode.microbit.org/courses/ucp-science/data-collection
+  This is only limited to 20 seconds
 - https://microbit.org/projects/make-it-code-it/python-wireless-data-logger/
+  
 - https://microbit.org/projects/make-it-code-it/indoor-outdoor-thermometer/?editor=python
 - https://microbit-micropython.readthedocs.io/en/v1.0.1/tutorials/storage.html#
   
