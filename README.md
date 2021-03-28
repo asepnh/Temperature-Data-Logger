@@ -15,20 +15,17 @@ Microbit references:
 
 - https://makecode.microbit.org/reference/serial/write-value
 
-
+- https://microbit.org/projects/make-it-code-it/makecode-wireless-data-logger/  
+  Doesn't save to data capture folder. Limited to 20 sec. 
 - https://microbit.org/projects/make-it-code-it/python-wireless-data-logger/  
   No limit to the recording time, file is stored as csv in laptop, can use a remote microbit. But no indication on the timing. 
   4 temp sensor can go to microbit with a breakout board which will then sends signal to 1 microbit connected to a laptop.
   
 - https://osoyoo.com/2018/09/18/micro-bit-lesson-using-the-dht11-sensor/  
 
-- https://microbit.org/projects/make-it-code-it/makecode-wireless-data-logger/  
 
+  
 - https://microbit.org/get-started/user-guide/python/
-
-
-- https://makecode.microbit.org/courses/ucp-science/data-collection  
-  This is only limited to 20 seconds
 
 
 - https://microbit.org/projects/make-it-code-it/indoor-outdoor-thermometer/?editor=python
@@ -48,7 +45,10 @@ Microbit references:
 ESP32 References:
 - https://my.cytron.io/p-esp01-humidity-and-temperature-module
 - https://www.youtube.com/watch?v=poHZTsKvZzM
-
+- https://mjrobot.org/monitoring-multiple-sensors/
+- https://www.instructables.com/IoT-Made-Simple-Monitoring-Temperature-Anywhere/
+- https://www.instructables.com/IoT-Made-Simple-Monitoring-Multiple-Sensors/
+- http://help.blynk.cc/en/articles/512056-how-to-display-any-sensor-data-in-blynk-app
 
 Useful Info:
 Using microfs to transfer file - this is too much hassle, easier is using Mu python editor.
