@@ -12,7 +12,7 @@ Hardware alternatives:
 Using Makecode Microbit is found to have a limitation of 20s. Another means to circumvent this is to sleep the microbit in between data recording.
 
 Microbit references:
-- https://makecode.microbit.org/courses/ucp-science/data-collection
+- https://makecode.microbit.org/courses/ucp-science/data-collection  
   This is only limited to 20 seconds
 - https://microbit.org/projects/make-it-code-it/python-wireless-data-logger/
   
@@ -24,7 +24,7 @@ Microbit references:
 - https://docs.python.org/3.9/tutorial/index.html
 - http://www.microbitsandbobs.co.uk/downloads/templogger.py
   
-- https://docs.microsoft.com/en-us/microsoft-365/education/data-streamer/using-microbit-and-makecode
+- https://docs.microsoft.com/en-us/microsoft-365/education/data-streamer/using-microbit-and-makecode  
   This step requires the laptop to be installed with Office 365 desktop version, not all have this license
 
 ESP32 References:
