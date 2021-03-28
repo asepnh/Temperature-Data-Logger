@@ -13,6 +13,9 @@ Using Makecode Microbit is found to have a limitation of 20s. Another means to c
 
 Microbit references:
 
+- https://makecode.microbit.org/reference/serial/write-value
+
+
 - https://microbit.org/projects/make-it-code-it/python-wireless-data-logger/  
   No limit to the recording time, file is stored as csv in laptop, can use a remote microbit. But no indication on the timing. 
   4 temp sensor can go to microbit with a breakout board which will then sends signal to 1 microbit connected to a laptop.
@@ -21,7 +24,7 @@ Microbit references:
 
 - https://microbit.org/projects/make-it-code-it/makecode-wireless-data-logger/  
 
-
+- https://microbit.org/get-started/user-guide/python/
 
 
 - https://makecode.microbit.org/courses/ucp-science/data-collection  
