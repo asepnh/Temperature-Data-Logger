@@ -53,9 +53,11 @@ ESP32 References:
 - https://my.cytron.io/p-nodemcu-lua-v3-esp8266-wifi-with-ch340c
 - https://www.electronicshub.org/dht11-humidity-sensor-with-esp8266/
 - https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-esp32
+
 - https://www.hackster.io/akarsh98/esp8266-with-thingspeak-and-dht11-tutorial-web-server-a40add
 - https://github.com/akarsh98/ESP8266-Thingspeak-Write-And-Read/blob/master/DHT11%20writing%20to%20thingspeak.ino
 
+The last 2 above is what I settled with. Reason being is that it is the simplest, allows upload to web server thereby eliminating the need for standby laptop and are the cheapest options.
 
 mBlock/ Halocode References:
 - https://www.mblock.cc/doc/en/use-extensions/google-sheets.html
