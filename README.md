@@ -50,6 +50,10 @@ ESP32 References:
 - https://www.instructables.com/IoT-Made-Simple-Monitoring-Multiple-Sensors/
 - http://help.blynk.cc/en/articles/512056-how-to-display-any-sensor-data-in-blynk-app
 - https://github.com/terahurts/ESP8266-DS18B20-Thingspeak/blob/master/ESP8266-DS18B20-Thingspeak.ino
+- https://my.cytron.io/p-nodemcu-lua-v3-esp8266-wifi-with-ch340c
+
+mBlock/ Halocode References:
+- https://www.mblock.cc/doc/en/use-extensions/google-sheets.html
 
 Useful Info:
 Using microfs to transfer file - this is too much hassle, easier is using Mu python editor.
