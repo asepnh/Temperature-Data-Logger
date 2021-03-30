@@ -49,24 +49,28 @@ ESP8266 References:
 - https://www.instructables.com/IoT-Made-Simple-Monitoring-Temperature-Anywhere/
 - https://www.instructables.com/IoT-Made-Simple-Monitoring-Multiple-Sensors/
 - http://help.blynk.cc/en/articles/512056-how-to-display-any-sensor-data-in-blynk-app
-- https://github.com/terahurts/ESP8266-DS18B20-Thingspeak/blob/master/ESP8266-DS18B20-Thingspeak.ino
-- https://my.cytron.io/p-nodemcu-lua-v3-esp8266-wifi-with-ch340c
-- https://www.electronicshub.org/dht11-humidity-sensor-with-esp8266/
-- https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-esp32
-- https://www.nadieleczone.com/tutorial-arduino/iot-esp32-thingspeak-menghantar-data-suhu-dan-kelembapan-ke-server/
+
 
 
 
 
 ESP32 Reference:
+- https://randomnerdtutorials.com/getting-started-with-esp32/
 - https://github.com/mathworks/thingspeak-arduino
-- 
+- https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-esp32 -> But the code fails
 
-ESP8266 with DS18B
+ESP32 with DHT11:
+https://www.nadieleczone.com/tutorial-arduino/iot-esp32-thingspeak-menghantar-data-suhu-dan-kelembapan-ke-server/
+
+ESP8266 General
+- https://my.cytron.io/p-nodemcu-lua-v3-esp8266-wifi-with-ch340c
+
+ESP8266 with DS18B20
+- https://github.com/terahurts/ESP8266-DS18B20-Thingspeak/blob/master/ESP8266-DS18B20-Thingspeak.ino
 
 ESP8266 with DHT11
 - https://roboindia.com/tutorials/nodemcu-dht11-thingspeak-data-upload/
-
+- https://www.electronicshub.org/dht11-humidity-sensor-with-esp8266/
 
 - https://www.hackster.io/akarsh98/esp8266-with-thingspeak-and-dht11-tutorial-web-server-a40add
 - https://github.com/akarsh98/ESP8266-Thingspeak-Write-And-Read/blob/master/DHT11%20writing%20to%20thingspeak.ino
