@@ -5,7 +5,7 @@
  * Description : Using ESP32 & multiple DHT11 to upload temperature and humidity data to Thingspeak
  * 
  * Hardware:
- * - DHT11 are connected to pin 18, 19, 22 & 23
+ * - DHT11 are connected to pin 18, 19, 22 & 23.
  * 
  * Note:
  * - When uploading, hold BOOT button on the ESP32 when connecting is shown.
@@ -40,7 +40,7 @@ unsigned long myChannelNumber = 1342645;
 const char * myWriteAPIKey = "KJK6UCQ8FNQRF5IG";
 
 long previousMillis = 0;
-long interval = 60000;
+long interval = 60000; // Set this to the interval when you want the ESP32 send data to Thingspeak. Set to minimum 2 sec as DHT11 can't update faster than that
 
 void setup() 
 {
