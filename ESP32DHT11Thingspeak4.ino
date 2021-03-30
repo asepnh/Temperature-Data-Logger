@@ -31,13 +31,13 @@ DHT dht3(sensorDHT3, DHTTYPE);
 DHT dht4(sensorDHT4, DHTTYPE);
 
 // Tetapan Thingspeak
-char * ssid = "rumah kami";   // your network SSID (name) 
-char * pass = "0178795869";   // your network password
+char * ssid = "your SSID";   // your network SSID (name) 
+char * pass = "your SSID password";   // your network password
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
 WiFiClient  client;
 
-unsigned long myChannelNumber = 1342645;
-const char * myWriteAPIKey = "KJK6UCQ8FNQRF5IG";
+unsigned long myChannelNumber = 1342645; // your Channel Number
+const char * myWriteAPIKey = "KJK6UCQ8FNQRF5IG"; //your API Key
 
 long previousMillis = 0;
 long interval = 60000; // Set this to the interval when you want the ESP32 send data to Thingspeak. Set to minimum 2 sec as DHT11 can't update faster than that
