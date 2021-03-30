@@ -61,6 +61,7 @@ ESP32 Reference:
 
 ESP32 with DHT11:
 https://www.nadieleczone.com/tutorial-arduino/iot-esp32-thingspeak-menghantar-data-suhu-dan-kelembapan-ke-server/
+https://desire.giesecke.tk/index.php/2018/01/30/esp32-dht11/
 
 ESP8266 General
 - https://my.cytron.io/p-nodemcu-lua-v3-esp8266-wifi-with-ch340c
