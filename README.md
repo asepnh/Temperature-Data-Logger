@@ -53,6 +53,8 @@ ESP32 References:
 - https://my.cytron.io/p-nodemcu-lua-v3-esp8266-wifi-with-ch340c
 - https://www.electronicshub.org/dht11-humidity-sensor-with-esp8266/
 - https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-esp32
+- https://www.nadieleczone.com/tutorial-arduino/iot-esp32-thingspeak-menghantar-data-suhu-dan-kelembapan-ke-server/
+- https://roboindia.com/tutorials/nodemcu-dht11-thingspeak-data-upload/
 
 - https://www.hackster.io/akarsh98/esp8266-with-thingspeak-and-dht11-tutorial-web-server-a40add
 - https://github.com/akarsh98/ESP8266-Thingspeak-Write-And-Read/blob/master/DHT11%20writing%20to%20thingspeak.ino
