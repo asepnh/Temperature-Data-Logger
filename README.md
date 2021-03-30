@@ -42,7 +42,7 @@ Microbit references:
 
 - https://www.littlebird.com.au/a/how-to/80/measure-temperature-and-humidity-with-micro-bit
 
-ESP32 References:
+ESP8266 References:
 - https://my.cytron.io/p-esp01-humidity-and-temperature-module
 - https://www.youtube.com/watch?v=poHZTsKvZzM
 - https://mjrobot.org/monitoring-multiple-sensors/
@@ -61,6 +61,10 @@ ESP32 References:
 - https://github.com/akarsh98/ESP8266-Thingspeak-Write-And-Read/blob/master/DHT11%20writing%20to%20thingspeak.ino
 
 The last 2 above is what I settled with. Reason being is that it is the simplest, allows upload to web server thereby eliminating the need for standby laptop and are the cheapest options.
+
+ESP32 Reference:
+- https://github.com/mathworks/thingspeak-arduino
+- 
 
 mBlock/ Halocode References:
 - https://www.mblock.cc/doc/en/use-extensions/google-sheets.html
