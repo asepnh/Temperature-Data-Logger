@@ -12,6 +12,7 @@ Reference ESP 8266:
 
 WARNING!!!
 - Never connect ESP8266 to computer usb AND connect it to a power source. You potentially will fry your computer USB. 
+- Reconfirm polarity. Breadboard power module MD-102 have a reversed polarity!
 
 NOTES:
 - 9V battery is not sufficient to power ESP8266. 9V battery might only able to supply 500mAh. Need a bigger current supply. 
