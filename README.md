@@ -10,6 +10,10 @@ Main reference ESP32:
 Reference ESP 8266:
 - https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/ -> Make sure you put in the correct pin number! Potential shortcircuit! Label and GPIO will be different. 
 
+WARNING!!!
+- Never connect ESP8266 to computer usb AND connect it to a power source. You potentially will fry your computer USB. 
+
+
 Project history below:
 
 Trying to develop a device that allows temperature data logging as simple as possible.
