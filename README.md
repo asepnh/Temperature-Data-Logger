@@ -1,6 +1,6 @@
 # Temperature-Data-Logger
 
-Device that allows temperature data logging using ESP8266, DHT11 and upload it to Thingspeak.
+Device that allows temperature data logging using ESP32/ ESP8266, DHT11 and upload it to Thingspeak.
 
 Main reference ESP32:
 - https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
@@ -18,8 +18,5 @@ Other option will be to upload data to cloud.
 
 Hardware alternatives:
 - Microbit
+  Using Makecode Microbit is found to have a limitation of 20s. Another means to circumvent this is to sleep the microbit in between data recording.
 - ESP32
-
-
-Using Makecode Microbit is found to have a limitation of 20s. Another means to circumvent this is to sleep the microbit in between data recording.
-
