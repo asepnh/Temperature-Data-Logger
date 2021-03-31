@@ -10,7 +10,7 @@ Main reference:
 
 Project history below:
 
-Trying to develop a device that allows temperature data logging as simple as available.
+Trying to develop a device that allows temperature data logging as simple as possible.
 Resource available will be a laptop that can standby to record data.
 Other option will be to upload data to cloud.
 
