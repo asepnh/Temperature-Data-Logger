@@ -1,12 +1,14 @@
 # Temperature-Data-Logger
 
-Device that allows temperature data logging using ESP32, DHT11 and upload it to Thingspeak.
+Device that allows temperature data logging using ESP8266, DHT11 and upload it to Thingspeak.
 
-Main reference:
-- https://randomnerdtutorials.com/getting-started-with-esp32/
+Main reference ESP32:
+- https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
 - https://github.com/mathworks/thingspeak-arduino/blob/master/examples/ESP32/WriteMultipleFields/WriteMultipleFields.ino
 - https://www.nadieleczone.com/tutorial-arduino/iot-esp32-thingspeak-menghantar-data-suhu-dan-kelembapan-ke-server/
 
+Reference ESP 8266:
+- https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/ -> Make sure you put in the correct pin number! Potential shortcircuit! Label and GPIO will be different. 
 
 Project history below:
 
