@@ -1,6 +1,6 @@
 # Temperature-Data-Logger
 
-Device that allows temperature data logging using ESP32, DHT11 and upload it to Thingspeak.
+Device that allows temperature data logging using ESP8266, DHT11 and upload it to Thingspeak.
 
 Main reference:
 - https://randomnerdtutorials.com/getting-started-with-esp32/
