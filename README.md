@@ -10,6 +10,8 @@ Main reference ESP32:
 Reference ESP 8266:
 - https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/ -> Make sure you put in the correct pin number! Potential shortcircuit! Label and GPIO will be different. 
 
+Reference ESP8266 with DS18B20
+- https://github.com/terahurts/ESP8266-DS18B20-Thingspeak/blob/master/ESP8266-DS18B20-Thingspeak.ino
 WARNING!!!
 - Never connect ESP8266 to computer usb AND connect it to a power source. You potentially will fry your computer USB. 
 - Reconfirm polarity. Breadboard power module MD-102 have a reversed polarity!
