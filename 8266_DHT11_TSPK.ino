@@ -5,7 +5,7 @@
  * Description : Using ESP8266 & multiple DHT11 to upload temperature and humidity data to Thingspeak
  * 
  * Hardware:
- * - DHT11 are connected to pin 1, 2, 3 & 4.
+ * - DHT11 are connected to pin 5, 4, 14 & 12.
  * 
  * Note:
  * - When uploading, hold BOOT button on the ESP32 when connecting is shown.
